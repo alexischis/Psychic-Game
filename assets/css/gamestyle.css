@@ -2,21 +2,24 @@
 body {
     margin: auto;
     text-align: center;
-    background-color: #a690d1;
+    background-color: #2e0483;
 }
 
 img {
     width: 300px;
     opacity: 65%;
-    border: solid 3px white;
+    border: solid 3px rgba(255, 255, 255, 0.288);
     margin: 20px;
 }
 
 p { 
-    font-family: 
-
+    font-family: 'Lora', sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
 }
 
 h1 {
+    font-family: 'Lora', serif;
     font-size: 72px;
+    color: rgb(203, 125, 255);
 }
