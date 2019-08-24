@@ -1,0 +1,21 @@
+
+body {
+    margin: auto;
+    text-align: center;
+    background-color: #a690d1;
+}
+
+img {
+    width: 300px;
+    opacity: 65%;
+    border: solid 3px white;
+    margin: 20px;
+}
+
+p {
+
+}
+
+h1 {
+    font-size: 72px;
+}
