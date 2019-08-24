@@ -58,8 +58,8 @@ document.onkeyup = function (event) {
 // linking in the html text and adding the variables
         var html =
             "<h1> Psychic Game </h1>" +
-            "<p>Are you a psychic?</p>" +
             "<p>Guess what letter I'm thinking of!</p>" +
+            "<p>Press any letter to see if you're right.</p>" +
             "<p>Wins: " + wins + "</p>" +
             "<p>Losses: " + losses + "</p>" +
             "<p>Guesses Left: " + numGuesses + "</p>" +
